@@ -36,7 +36,7 @@ public class BreakOreEvent extends PlayerEvent implements Cancellable {
     }
 
     @Override
-    public void setCancelled(boolean calcel) {
-        this.cancel = calcel;
+    public void setCancelled(boolean cancel) {
+        this.cancel = cancel;
     }
 }
