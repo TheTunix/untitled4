@@ -1,0 +1,4 @@
+name: untitled4
+version: '${version}'
+main: dev.tunix.untitled4.Untitled4
+api-version: '1.19'
